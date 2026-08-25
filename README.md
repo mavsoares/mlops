@@ -1,3 +1,2 @@
 # mlops
-Projeto para uso na disciplina MLOPs da pós-gradução do IBMEC.
-
+Projeto para uso na disciplina MLOps da pós-gradução do IBMEC.
