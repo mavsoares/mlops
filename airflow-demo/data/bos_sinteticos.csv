@@ -1,0 +1,41 @@
+id,texto_relato,natureza,bairro,turno,dia_semana,houve_violencia,valor_prejuizo_reais,idade_vitima,reincidencia
+1,   Comunicante relata agressao por parte de companheiro dentro de casa   ,Violencia   Domestica ,Samambaia,Noite,Quarta,False,0.0,,False
+2,   Comunicante relata ter recebido ameacas de morte por aplicativo de mensagens   ,Ameaca,Taguatinga,Manhã,Sábado,False,0.0,58.0,False
+3,Vitima   percebeu   falta mochila com documentos apos deixar na parada de onibus sem vigilancia,  FURTO  ,Ceilândia,Noite,Quarta,False,1376.24,,True
+4,VITIMA RELATA TER CAIDO EM GOLPE DE VENDA FALSA PELA INTERNET E PERDIDO NOTEBOOK,Estelionato,Planaltina,Noite,Terça,False,3234.82,32.0,False
+5,COMUNICANTE RELATA QUE TEVE NOTEBOOK SUBTRAIDO SEM USO DE VIOLENCIA PROXIMO A RESIDENCIA,Furto ,Sobradinho,Madrugada,Sexta,False,292.48,57.0,False
+6,VITIMA RELATA TER CAIDO EM GOLPE DE VENDA FALSA PELA INTERNET E PERDIDO VEICULO,Estelionato,Samambaia,Noite,Terça,False,2196.11,77.0,False
+7,   Vitima procurou a delegacia apos sofrer agressao fisica de conhecido   ,   Lesao Corporal   ,Taguatinga,Madrugada,Quarta,True,0.0,51.0,False
+8,  DENUNCIA ANONIMA RELATA COMERCIO DE ENTORPECENTES DENTRO DO ONIBUS  ,Trafico de Drogas,Águas Claras,Madrugada,Quarta,False,0.0,31.0,False
+9,   Vitima procura delegacia relatando ameacas reiteradas do ex-companheiro   ,Violencia Domestica	,Águas Claras,Manhã,Sábado,False,0.0,26.0,False
+10,  COMUNICANTE RELATA AGRESSAO POR PARTE DE COMPANHEIRO DENTRO DE CASA  ,Violencia Domestica,Samambaia,Manhã,Quinta,False,0.0,61.0,False
+11,Comunicante relata som alto excessivo vindo de imovel vizinho em via publica	,  PERTURBACAO DO SOSSEGO  ,Asa Norte,Madrugada,Domingo,False,0.0,,False
+12,   Vitima solicita providencias contra perturbacao recorrente do sossego   ,Perturbacao do Sossego,Taguatinga,Tarde,Quinta,False,0.0,57.0,False
+13,   Vitima percebeu falta mochila com documentos apos deixar na parada de onibus sem vigilancia   ,   Furto   ,Gama,Madrugada,Quinta,False,480000.0,34.0,False
+14,   Comunicante relata ter recebido ameacas de morte por aplicativo de mensagens   ,Ameaca,Gama,Madrugada,Domingo,False,0.0,24.0,False
+15,"VITIMA NAO RETORNOU PARA CASA APOS SAIR PARA TRABALHAR, FAMILIA REGISTRA DESAPARECIMENTO",Pessoa Desaparecida	,Guará,Noite,Quarta,False,0.0,36.0,False
+16,COMUNICANTE RELATA QUE TEVE CELULAR SUBTRAIDO SEM USO DE VIOLENCIA DENTRO DO ONIBUS,Furto,Taguatinga,Manhã,Terça,False,749.74,21.0,True
+17,  COMUNICANTE RELATA MOVIMENTACAO SUSPEITA ASSOCIADA A TRAFICO DE DROGAS PROXIMO A RESIDENCIA  ,   Trafico de Drogas   ,Ceilândia,Manhã,Quinta,False,0.0,63.0,False
+18,  VITIMA SOLICITA PROVIDENCIAS CONTRA PERTURBACAO RECORRENTE DO SOSSEGO  ,Perturbacao do Sossego,Guará,Madrugada,Sexta,False,0.0,121.0,False
+19,   Comunicante relata ter sido agredido fisicamente durante discussao na feira livre   ,  LESAO CORPORAL  ,Taguatinga,Noite,Domingo,True,0.0,,False
+20,  COMUNICANTE RELATA TER SIDO RENDIDO E TER BICICLETA LEVADO NO COMERCIO LOCAL  ,Roubo,Águas Claras,Manhã,Sábado,True,2849.89,75.0,True
+21,"VITIMA NAO RETORNOU PARA CASA APOS SAIR PARA TRABALHAR, FAMILIA REGISTRA DESAPARECIMENTO",Pessoa   Desaparecida ,Sobradinho,Tarde,Segunda,False,0.0,78.0,False
+22,  COMUNICANTE RELATA AGRESSAO POR PARTE DE COMPANHEIRO DENTRO DE CASA  ,Violencia Domestica,Ceilândia,Tarde,Segunda,False,0.0,63.0,False
+23,Vitima informa que foi abordada por individuo armado que levou notebook em via publica	,  ROUBO  ,Gama,Noite,Quarta,False,1686.65,59.0,False
+24,"VITIMA NAO RETORNOU PARA CASA APOS SAIR PARA TRABALHAR, FAMILIA REGISTRA DESAPARECIMENTO",Pessoa Desaparecida,Taguatinga,Manhã,Segunda,False,0.0,41.0,False
+25,Comunicante relata ter sido agredido fisicamente durante discussao proximo a residencia	,Lesao   Corporal ,Asa Sul,Madrugada,Domingo,True,0.0,5.0,False
+26,  VITIMA RELATA TER CAIDO EM GOLPE DE VENDA FALSA PELA INTERNET E PERDIDO VEICULO  ,Estelionato,Ceilândia,Noite,Segunda,False,350000.0,71.0,False
+27,Comunicante   relata   que seu veiculo foi danificado em frente a escola,  DANO AO PATRIMONIO  ,Asa Norte,Noite,Quarta,True,857.42,60.0,False
+28,   Comunicante relata desaparecimento de familiar desde o dia anterior   ,Pessoa Desaparecida,Samambaia,Madrugada,Sábado,False,0.0,49.0,False
+29,VITIMA RELATA TER CAIDO EM GOLPE DE VENDA FALSA PELA INTERNET E PERDIDO CARTEIRA,ESTELIONATO,Planaltina,Noite,Sexta,False,310.93,59.0,False
+30,Comunicante relata ter recebido ameacas de morte por aplicativo de mensagens	,Ameaca,Asa Norte,Madrugada,Quarta,True,0.0,69.0,False
+31,Comunicante   relata   movimentacao suspeita associada a trafico de drogas dentro do onibus,   Trafico de Drogas   ,Ceilândia,Madrugada,Quinta,True,0.0,70.0,False
+32,Comunicante   relata   movimentacao suspeita associada a trafico de drogas no estacionamento do shopping,Trafico de Drogas,Asa Sul,Manhã,Sexta,False,0.0,39.0,True
+33,VITIMA PROCUROU A DELEGACIA APOS SOFRER AGRESSAO FISICA DE CONHECIDO,   Lesao Corporal   ,Asa Norte,Madrugada,Segunda,True,0.0,37.0,True
+34,VITIMA INFORMA QUE FOI ABORDADA POR INDIVIDUO ARMADO QUE LEVOU NOTEBOOK NA PARADA DE ONIBUS,Roubo,Águas Claras,Noite,Quarta,True,1516.84,74.0,False
+35,Comunicante   relata   que seu veiculo foi danificado na feira livre,DANO AO PATRIMONIO,Ceilândia,Noite,Terça,False,800.88,44.0,False
+36,   Comunicante relata que seu veiculo foi danificado na parada de onibus   ,Dano ao Patrimonio,Asa Sul,Manhã,Terça,False,1525.12,46.0,False
+37,   Comunicante relata ter sido rendido e ter notebook levado no estacionamento do shopping   ,Roubo ,Asa Norte,Manhã,Domingo,True,3138.41,22.0,False
+38,Comunicante relata som alto excessivo vindo de imovel vizinho na feira livre	,Perturbacao do Sossego,Guará,Madrugada,Segunda,False,0.0,48.0,False
+39,   Vitima informa que janela de sua residencia foi quebrada durante a madrugada   ,   Dano ao Patrimonio   ,Samambaia,Manhã,Segunda,False,544.11,,False
+40,Comunicante   relata   ter recebido ameacas de morte por aplicativo de mensagens,Ameaca,Sobradinho,Manhã,Terça,False,0.0,26.0,False

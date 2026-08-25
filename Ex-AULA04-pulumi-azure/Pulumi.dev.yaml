@@ -1,0 +1,5 @@
+encryptionsalt: v1:Vij/LIJ2F90=:v1:xOhaKGl4R3rYw8Tm:wrUc1cqVgYVGY/sis74OBP/n9dUx0g==
+config:
+  azure-native:location: brazilsouth
+  Ex-AULA04-pulumi-azure:criar_grupo: "true"
+  Ex-AULA04-pulumi-azure:localizacao: brazilsouth
