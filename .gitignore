@@ -189,9 +189,8 @@ __marimo__/
 # Runtime logs
 logs/
 airflow-demo/logs/
-
-# Local Airflow metadata database
 airflow.db
+airflow.cfg
 
 # ============================================================
 # Terraform
